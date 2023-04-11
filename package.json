@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/github.com/oloduogoo123.git"
+    "url": "git+https://github.com/github.com/leo-mezie.git"
   },
   "author": "leo",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/github.com/oloduogoo123/issues"
+    "url": "https://github.com/github.com/leo-mezie/issues"
   },
-  "homepage": "https://github.com/github.com/oloduogoo123#readme",
+  "homepage": "https://github.com/github.com/leo-mezie#readme",
   "dependencies": {
     "bcryptjs": "^2.4.3",
     "connect-flash": "^0.1.1",
